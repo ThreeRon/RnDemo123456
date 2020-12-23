@@ -17,4 +17,4 @@ class WhyReactNativeIsSoGreat extends Component {
   }
 }
 
-export default WhyReactNativeIsSoGreat;
+module.exports = WhyReactNativeIsSoGreat;
