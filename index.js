@@ -3,6 +3,7 @@ import { Text, View } from 'react-native';
 
 class WhyReactNativeIsSoGreat extends Component {
   render() {
+    console.log('ABC');
     return (
       <View>
         <Text>
